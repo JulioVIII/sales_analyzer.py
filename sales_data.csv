@@ -1,0 +1,14 @@
+
+OrderID,Product,City,Revenue
+1001,Laptop,Cork,1200
+1002,Phone,Dublin,800
+1003,Tablet,Cork,300
+1004,Laptop,Dublin,1500
+1005,Phone,Cork,450
+1006,Tablet,Limerick,250
+1007,Laptop,Limerick,1300
+1008,Phone,Dublin,650
+1009,Tablet,Dublin,400
+1010,Laptop,Cork,1100
+1011,Phone,Limerick,550
+1012,Tablet,Cork,350
